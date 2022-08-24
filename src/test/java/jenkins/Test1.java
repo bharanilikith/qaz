@@ -8,6 +8,7 @@ public class Test1 {
 public void tc1(){
 
 System.out.println("Om ganesha");
+System.out.println("om shiva");
 
 	}
 
